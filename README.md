@@ -12,6 +12,18 @@ $ pkg install python
 
 $ pkg install pip
 
+$ pip install requests
+
+$ pip install stdiomask
+
+$ pip install mechanize
+
+$ pip install bs4
+
+$ pip install npm
+
+$ pip install future
+
 $ pip2 install mechanize
 
 $ pip2 install requests
